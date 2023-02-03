@@ -1,5 +1,6 @@
 # AMENITY
 
+## Amenity Prototype (Few Screens):
 
 <p align="center">
   <img width="370" height="760" alt="AmenityLogin" src="https://user-images.githubusercontent.com/114610458/216634650-a5b7b850-d18c-4e95-94b4-990b04254614.png">
